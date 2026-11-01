@@ -13,5 +13,6 @@ Completed project files for **Winning the Space Race with Data Science**.
 - Classification notebook
 - Plotly Dash application
 - Data files and final PDF report
+- `Final_Assignment.ipynb` — Analyzing Historical Stock/Revenue Data and Building a Dashboard (Tesla and GameStop)
 
 Install with `pip install -r requirements.txt`, open the notebooks with Jupyter, and run the dashboard with `python spacex_dash_app.py`.
